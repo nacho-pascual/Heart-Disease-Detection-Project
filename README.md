@@ -1,4 +1,4 @@
-# DATAPROJECT3
+# Heart Disease Detection
 
 ## Detección de Enfermedad Cardíaca
 
